@@ -60,7 +60,8 @@ for tournament in tournaments:
 
         pacmanJson += ",\n" + json.dumps(pacman.__dict__)
 
-with open("matches.json", 'w') as f:
-    f.write(pacmanJson[2:])
+pacmanJson = pacmanJson[2:]
+pacmanJson = '[' + pacmanJson + ']'
 
-print("hello cummers")
+with open("matches.json", 'w') as f:
+    f.write(pacmanJson[:])
