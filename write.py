@@ -1,3 +1,4 @@
+# Prints invalid json file
 import challonge
 import json
 

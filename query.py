@@ -1,4 +1,4 @@
-# GUI to prompt data from file
+# idea is to make GUI to prompt data from file, so far it's just messing around
 
 import json
 
