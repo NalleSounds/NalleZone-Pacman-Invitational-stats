@@ -2,7 +2,7 @@
 import challonge
 import json
 
-challonge.set_credentials("nallesounds", "JdWTWzBEcfnXA22dCC3KMZuq0nsaEemnwy2Nujxa")
+challonge.set_credentials("ID", "API key")
 
 
 class Tournament:
