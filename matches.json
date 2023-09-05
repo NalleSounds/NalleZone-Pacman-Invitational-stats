@@ -1,25 +1,992 @@
-[{"tid": 9132704, "name": "nalle zone pacman", "url": "u4krxvwk", "tformat": "single elimination", "start_at": "2020/11/19, 00:00:45", "completed_at": "2020/11/19, 00:30:53", "duration": 30.132266666666666, "participant_count": 7, "participants": [{"pid": 134431569, "trainer": "noface"}, {"pid": 134431574, "trainer": "mozurkz"}, {"pid": 134431564, "trainer": "greg"}, {"pid": 134431582, "trainer": "volv"}, {"pid": 134431560, "trainer": "nalle"}, {"pid": 134431589, "trainer": "mutantthebitch"}, {"pid": 134431567, "trainer": "jfm"}]},
-{"tid": 9132843, "name": "NZ pacman 2", "url": "ob4xs8lp", "tformat": "single elimination", "start_at": "2020/11/19, 01:27:00", "completed_at": "2020/11/19, 01:27:10", "duration": 0.17568333333333333, "participant_count": 6, "participants": [{"pid": 134433931, "trainer": "mutant"}, {"pid": 134433921, "trainer": "greg"}, {"pid": 134433920, "trainer": "nalle"}, {"pid": 134433927, "trainer": "volv"}, {"pid": 134433925, "trainer": "noface"}, {"pid": 134433923, "trainer": "jfm"}]},
-{"tid": 9132973, "name": "NZ INV 3", "url": "to22hdzq", "tformat": "single elimination", "start_at": "2020/11/19, 04:06:41", "completed_at": "2020/11/19, 04:54:43", "duration": 48.03823333333333, "participant_count": 6, "participants": [{"pid": 134437298, "trainer": "nalle"}, {"pid": 134437317, "trainer": "jfm"}, {"pid": 134437316, "trainer": "mutant"}, {"pid": 134437296, "trainer": "greg"}, {"pid": 134437300, "trainer": "volv"}, {"pid": 134437322, "trainer": "noface"}]},
-{"tid": 9133643, "name": "NZ PMI 4", "url": "s6ziwzgg", "tformat": "single elimination", "start_at": "2020/11/19, 07:53:02", "completed_at": "2020/11/19, 08:04:43", "duration": 11.679766666666666, "participant_count": 5, "participants": [{"pid": 134448020, "trainer": "link"}, {"pid": 134448019, "trainer": "camber"}, {"pid": 134448018, "trainer": "nalle"}, {"pid": 134448024, "trainer": "jfm"}, {"pid": 134448021, "trainer": "greg"}]},
-{"tid": 9136128, "name": "NALLEZONE PACMAN INVITATIONAL 5 ROUND 2", "url": "hv6tqg79", "tformat": "single elimination", "start_at": "2020/11/20, 04:45:34", "completed_at": "2020/11/20, 05:18:55", "duration": 33.35521666666667, "participant_count": 6, "participants": [{"pid": 134497436, "trainer": "link"}, {"pid": 134496718, "trainer": "greg"}, {"pid": 134505688, "trainer": "jfm"}, {"pid": 134496716, "trainer": "mutant"}, {"pid": 134496712, "trainer": "nalle"}, {"pid": 134496715, "trainer": "volv"}]},
-{"tid": 9139533, "name": "NZ PMI 6", "url": "pzopn0qx", "tformat": "single elimination", "start_at": "2020/11/20, 23:28:17", "completed_at": "2020/11/21, 00:10:52", "duration": 42.584966666666666, "participant_count": 6, "participants": [{"pid": 134563211, "trainer": "jfm"}, {"pid": 134563212, "trainer": "nalle"}, {"pid": 134563208, "trainer": "greg"}, {"pid": 134563206, "trainer": "camber"}, {"pid": 134563218, "trainer": "noface"}, {"pid": 134563217, "trainer": "volv"}]},
-{"tid": 9139812, "name": "NalleZone Pacman invitational 7", "url": "i3jgum7c", "tformat": "double elimination", "start_at": "2020/11/21, 00:15:44", "completed_at": "2020/11/21, 02:48:11", "duration": 152.44033333333334, "participant_count": 9, "participants": [{"pid": 134568187, "trainer": "jfm"}, {"pid": 134568191, "trainer": "camber"}, {"pid": 134568196, "trainer": "link"}, {"pid": 134568200, "trainer": "mutant"}, {"pid": 134568206, "trainer": "volv"}, {"pid": 134568203, "trainer": "pascaldi"}, {"pid": 134568189, "trainer": "nalle"}, {"pid": 134568213, "trainer": "noface"}, {"pid": 134568194, "trainer": "greg"}]},
-{"tid": 9140621, "name": "NZ PMI 8", "url": "bq5lv1ep", "tformat": "single elimination", "start_at": "2020/11/21, 04:17:04", "completed_at": "2020/11/21, 05:28:27", "duration": 71.37259999999999, "participant_count": 8, "participants": [{"pid": 134583559, "trainer": "link"}, {"pid": 134583589, "trainer": "mutant"}, {"pid": 134583462, "trainer": "nalle"}, {"pid": 134583475, "trainer": "greg"}, {"pid": 134583542, "trainer": "jfm"}, {"pid": 134583593, "trainer": "volv"}, {"pid": 134583594, "trainer": "noface"}, {"pid": 134583473, "trainer": "chromi"}]},
-{"tid": 9140894, "name": "NZPMI 9", "url": "8sqt7xld", "tformat": "double elimination", "start_at": "2020/11/21, 05:31:24", "completed_at": "2020/11/21, 08:06:15", "duration": 154.8498, "participant_count": 8, "participants": [{"pid": 134587854, "trainer": "greg"}, {"pid": 134587860, "trainer": "mutant"}, {"pid": 134587858, "trainer": "link"}, {"pid": 134587857, "trainer": "jfm"}, {"pid": 134587852, "trainer": "chromi"}, {"pid": 134587865, "trainer": "noface"}, {"pid": 134587851, "trainer": "nalle"}, {"pid": 134587863, "trainer": "lake"}]},
-{"tid": 9141250, "name": "NZ PMI X", "url": "2ez3ide5", "tformat": "double elimination", "start_at": "2020/11/21, 08:19:48", "completed_at": "2020/11/21, 11:05:30", "duration": 165.6957833333333, "participant_count": 8, "participants": [{"pid": 134594985, "trainer": "nalle"}, {"pid": 134594988, "trainer": "greg"}, {"pid": 134594995, "trainer": "phlo"}, {"pid": 134594992, "trainer": "link"}, {"pid": 134594989, "trainer": "jfm"}, {"pid": 134595070, "trainer": "camber"}, {"pid": 134594993, "trainer": "mutant"}, {"pid": 134594987, "trainer": "chrom"}]},
-{"tid": 9145125, "name": "NZ PMI XI", "url": "iyos1opu", "tformat": "double elimination", "start_at": "2020/11/22, 07:44:51", "completed_at": "2020/11/22, 10:09:58", "duration": 145.1216, "participant_count": 7, "participants": [{"pid": 134669809, "trainer": "mutant"}, {"pid": 134669802, "trainer": "greg"}, {"pid": 134669808, "trainer": "link"}, {"pid": 134669801, "trainer": "nalle"}, {"pid": 134669807, "trainer": "camber"}, {"pid": 134669805, "trainer": "jfm"}, {"pid": 134669804, "trainer": "phlo"}]},
-{"tid": 9163087, "name": "Nallezone Pacman Invitational X2", "url": "dfw9guqf", "tformat": "single elimination", "start_at": "2020/11/27, 23:19:32", "completed_at": "2020/11/28, 00:44:34", "duration": 85.03231666666667, "participant_count": 8, "participants": [{"pid": 135012636, "trainer": "greg"}, {"pid": 135012641, "trainer": "link"}, {"pid": 135012634, "trainer": "nalle"}, {"pid": 135012646, "trainer": "mutantthebitch"}, {"pid": 135012640, "trainer": "camber"}, {"pid": 135012652, "trainer": "noface"}, {"pid": 135012651, "trainer": "volv"}, {"pid": 135012648, "trainer": "jakewright"}]},
-{"tid": 9163362, "name": "NALLEZONEPACMANINVITATIONAL XIII", "url": "2qr8g7mq", "tformat": "double elimination", "start_at": "2020/11/28, 00:49:36", "completed_at": "2020/11/28, 03:05:33", "duration": 135.94241666666667, "participant_count": 8, "participants": [{"pid": 135016964, "trainer": "camber"}, {"pid": 135016979, "trainer": "jake"}, {"pid": 135016975, "trainer": "link"}, {"pid": 135016973, "trainer": "greg"}, {"pid": 135016978, "trainer": "mutant"}, {"pid": 135016962, "trainer": "nalle"}, {"pid": 135016982, "trainer": "volv"}, {"pid": 135016974, "trainer": "jfm"}]},
-{"tid": 9174452, "name": "NZPI X4", "url": "npxk7jyp", "tformat": "double elimination", "start_at": "2020/12/01, 01:25:31", "completed_at": "2020/12/01, 04:35:45", "duration": 190.23616666666666, "participant_count": 8, "participants": [{"pid": 135221225, "trainer": "jfm"}, {"pid": 135221226, "trainer": "link"}, {"pid": 135221222, "trainer": "greg"}, {"pid": 135221232, "trainer": "jakewright"}, {"pid": 135221221, "trainer": "camber"}, {"pid": 135221219, "trainer": "nalle"}, {"pid": 135221234, "trainer": "noface"}, {"pid": 135221233, "trainer": "volv"}]},
-{"tid": 9281705, "name": "NZPMI XV", "url": "cz566ku9", "tformat": "double elimination", "start_at": "2021/01/02, 00:07:34", "completed_at": "2021/01/02, 02:02:09", "duration": 114.58265, "participant_count": 7, "participants": [{"pid": 137241368, "trainer": "greg"}, {"pid": 137240735, "trainer": "volvagia"}, {"pid": 137240728, "trainer": "nalle"}, {"pid": 137240732, "trainer": "noface"}, {"pid": 137240730, "trainer": "link"}, {"pid": 137240736, "trainer": "jfm"}, {"pid": 137240734, "trainer": "hyphlopod"}]},
-{"tid": 9282093, "name": "NZPMI XVI", "url": "e4cna1ub", "tformat": "single elimination", "start_at": "2021/01/02, 02:51:16", "completed_at": "2021/01/02, 03:21:25", "duration": 30.1436, "participant_count": 6, "participants": [{"pid": 137247648, "trainer": "jfm"}, {"pid": 137247659, "trainer": "greg"}, {"pid": 137247649, "trainer": "noface"}, {"pid": 137247653, "trainer": "nalle"}, {"pid": 137247656, "trainer": "volv"}, {"pid": 137247645, "trainer": "link"}]},
-{"tid": 9377604, "name": "NZPMI 17", "url": "i7vjo74", "tformat": "single elimination", "start_at": "2021/01/31, 08:14:44", "completed_at": "2021/01/31, 09:02:44", "duration": 47.99563333333333, "participant_count": 6, "participants": [{"pid": 139033339, "trainer": "jfm"}, {"pid": 139033334, "trainer": "link"}, {"pid": 139033333, "trainer": "camber"}, {"pid": 139033337, "trainer": "nalle"}, {"pid": 139033336, "trainer": "phlo"}, {"pid": 139033335, "trainer": "count"}]},
-{"tid": 9400572, "name": "NZPMI 18", "url": "g7we8c76", "tformat": "single elimination", "start_at": "2021/02/07, 00:04:40", "completed_at": "2021/02/07, 01:07:51", "duration": 63.17613333333334, "participant_count": 6, "participants": [{"pid": 139451935, "trainer": "link"}, {"pid": 139451930, "trainer": "greg"}, {"pid": 139451925, "trainer": "mutant"}, {"pid": 139451928, "trainer": "nalle"}, {"pid": 139451931, "trainer": "jfm"}, {"pid": 139451926, "trainer": "volv"}]},
-{"tid": 9716299, "name": "NZPMI XIX", "url": "2hzg8ewf", "tformat": "double elimination", "start_at": "2021/04/24, 00:17:16", "completed_at": "2021/04/24, 02:39:25", "duration": 142.13856666666666, "participant_count": 7, "participants": [{"pid": 145174004, "trainer": "mutant"}, {"pid": 145174006, "trainer": "link"}, {"pid": 145174007, "trainer": "jfm"}, {"pid": 145174008, "trainer": "noface"}, {"pid": 145174005, "trainer": "greg"}, {"pid": 145174003, "trainer": "nalle"}, {"pid": 145174002, "trainer": "volv"}]},
-{"tid": 9716927, "name": "NZPMI XX", "url": "e02271up", "tformat": "single elimination", "start_at": "2021/04/24, 02:41:53", "completed_at": "2021/04/24, 03:53:11", "duration": 71.30911666666665, "participant_count": 8, "participants": [{"pid": 145186031, "trainer": "greg"}, {"pid": 145186035, "trainer": "link"}, {"pid": 145186034, "trainer": "chrome"}, {"pid": 145186033, "trainer": "mutant"}, {"pid": 145186032, "trainer": "volv"}, {"pid": 145186029, "trainer": "jfm"}, {"pid": 145186030, "trainer": "nalle"}, {"pid": 145186036, "trainer": "noface"}]},
-{"tid": 10507365, "name": "NZPMI XXI", "url": "76mmhus3", "tformat": "double elimination", "start_at": "2021/11/20, 22:50:23", "completed_at": "2021/11/21, 00:55:11", "duration": 124.7936, "participant_count": 5, "participants": [{"pid": 159165015, "trainer": "jfm"}, {"pid": 159165025, "trainer": "greg"}, {"pid": 159165046, "trainer": "volv"}, {"pid": 159165021, "trainer": "nalle"}, {"pid": 159165023, "trainer": "mutant"}]},
-{"tid": 10507828, "name": "NZPMI XXII", "url": "45770wc1", "tformat": "double elimination", "start_at": "2021/11/21, 01:01:01", "completed_at": "2021/11/21, 03:10:22", "duration": 129.3476, "participant_count": 7, "participants": [{"pid": 159172465, "trainer": "greg"}, {"pid": 159172479, "trainer": "link"}, {"pid": 159172467, "trainer": "mutant"}, {"pid": 159172476, "trainer": "jimmy"}, {"pid": 159172484, "trainer": "volv"}, {"pid": 159172464, "trainer": "jfm"}, {"pid": 159172466, "trainer": "nalle"}]},
-{"tid": 10532824, "name": "NZPMI XXIII", "url": "qfyzq5li", "tformat": "double elimination", "start_at": "2021/11/28, 00:10:22", "completed_at": "2021/11/28, 01:32:50", "duration": 82.47171666666667, "participant_count": 8, "participants": [{"pid": 159634242, "trainer": "link"}, {"pid": 159634241, "trainer": "jfm"}, {"pid": 159634245, "trainer": "mutant"}, {"pid": 159634247, "trainer": "greg"}, {"pid": 159634253, "trainer": "savestate"}, {"pid": 159634243, "trainer": "volv"}, {"pid": 159634252, "trainer": "noface"}, {"pid": 159634239, "trainer": "nalle"}]},
-{"tid": 11266937, "name": "NZPMI XXVI", "url": "y56bjgkn", "tformat": "double elimination", "start_at": "2022/06/09, 22:45:52", "completed_at": "2022/06/09, 23:58:17", "duration": 72.4215, "participant_count": 5, "participants": [{"pid": 173323624, "trainer": "link"}, {"pid": 173323623, "trainer": "greg"}, {"pid": 173323625, "trainer": "volv"}, {"pid": 173323630, "trainer": "noface"}, {"pid": 173323622, "trainer": "nalle"}]},
-{"tid": 11563955, "name": "NZPMI XXV", "url": "s23dvdwi", "tformat": "double elimination", "start_at": "2022/08/07, 21:49:49", "completed_at": "2022/08/08, 00:28:31", "duration": 158.70261666666664, "participant_count": 7, "participants": [{"pid": 177632982, "trainer": "link"}, {"pid": 177632975, "trainer": "greg"}, {"pid": 177632974, "trainer": "volv"}, {"pid": 177632971, "trainer": "nalle"}, {"pid": 177632979, "trainer": "jimmy"}, {"pid": 177632978, "trainer": "noface"}, {"pid": 177632972, "trainer": "jfm"}]}]
+{
+  "pacmans": [
+    {
+      "tid": 9132704,
+      "name": "nalle zone pacman",
+      "url": "u4krxvwk",
+      "tformat": "single elimination",
+      "start_at": "2020/11/19, 00:00:45",
+      "completed_at": "2020/11/19, 00:30:53",
+      "duration": 30.132266666666666,
+      "participant_count": 7,
+      "participants": [
+        {
+          "pid": 134431569,
+          "trainer": "noface"
+        },
+        {
+          "pid": 134431574,
+          "trainer": "mozurkz"
+        },
+        {
+          "pid": 134431564,
+          "trainer": "greg"
+        },
+        {
+          "pid": 134431582,
+          "trainer": "volv"
+        },
+        {
+          "pid": 134431560,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 134431589,
+          "trainer": "mutantthebitch"
+        },
+        {
+          "pid": 134431567,
+          "trainer": "jfm"
+        }
+      ]
+    },
+    {
+      "tid": 9132843,
+      "name": "NZ pacman 2",
+      "url": "ob4xs8lp",
+      "tformat": "single elimination",
+      "start_at": "2020/11/19, 01:27:00",
+      "completed_at": "2020/11/19, 01:27:10",
+      "duration": 0.17568333333333333,
+      "participant_count": 6,
+      "participants": [
+        {
+          "pid": 134433931,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 134433921,
+          "trainer": "greg"
+        },
+        {
+          "pid": 134433920,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 134433927,
+          "trainer": "volv"
+        },
+        {
+          "pid": 134433925,
+          "trainer": "noface"
+        },
+        {
+          "pid": 134433923,
+          "trainer": "jfm"
+        }
+      ]
+    },
+    {
+      "tid": 9132973,
+      "name": "NZ INV 3",
+      "url": "to22hdzq",
+      "tformat": "single elimination",
+      "start_at": "2020/11/19, 04:06:41",
+      "completed_at": "2020/11/19, 04:54:43",
+      "duration": 48.03823333333333,
+      "participant_count": 6,
+      "participants": [
+        {
+          "pid": 134437298,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 134437317,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 134437316,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 134437296,
+          "trainer": "greg"
+        },
+        {
+          "pid": 134437300,
+          "trainer": "volv"
+        },
+        {
+          "pid": 134437322,
+          "trainer": "noface"
+        }
+      ]
+    },
+    {
+      "tid": 9133643,
+      "name": "NZ PMI 4",
+      "url": "s6ziwzgg",
+      "tformat": "single elimination",
+      "start_at": "2020/11/19, 07:53:02",
+      "completed_at": "2020/11/19, 08:04:43",
+      "duration": 11.679766666666666,
+      "participant_count": 5,
+      "participants": [
+        {
+          "pid": 134448020,
+          "trainer": "link"
+        },
+        {
+          "pid": 134448019,
+          "trainer": "camber"
+        },
+        {
+          "pid": 134448018,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 134448024,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 134448021,
+          "trainer": "greg"
+        }
+      ]
+    },
+    {
+      "tid": 9136128,
+      "name": "NALLEZONE PACMAN INVITATIONAL 5 ROUND 2",
+      "url": "hv6tqg79",
+      "tformat": "single elimination",
+      "start_at": "2020/11/20, 04:45:34",
+      "completed_at": "2020/11/20, 05:18:55",
+      "duration": 33.35521666666667,
+      "participant_count": 6,
+      "participants": [
+        {
+          "pid": 134497436,
+          "trainer": "link"
+        },
+        {
+          "pid": 134496718,
+          "trainer": "greg"
+        },
+        {
+          "pid": 134505688,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 134496716,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 134496712,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 134496715,
+          "trainer": "volv"
+        }
+      ]
+    },
+    {
+      "tid": 9139533,
+      "name": "NZ PMI 6",
+      "url": "pzopn0qx",
+      "tformat": "single elimination",
+      "start_at": "2020/11/20, 23:28:17",
+      "completed_at": "2020/11/21, 00:10:52",
+      "duration": 42.584966666666666,
+      "participant_count": 6,
+      "participants": [
+        {
+          "pid": 134563211,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 134563212,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 134563208,
+          "trainer": "greg"
+        },
+        {
+          "pid": 134563206,
+          "trainer": "camber"
+        },
+        {
+          "pid": 134563218,
+          "trainer": "noface"
+        },
+        {
+          "pid": 134563217,
+          "trainer": "volv"
+        }
+      ]
+    },
+    {
+      "tid": 9139812,
+      "name": "NalleZone Pacman invitational 7",
+      "url": "i3jgum7c",
+      "tformat": "double elimination",
+      "start_at": "2020/11/21, 00:15:44",
+      "completed_at": "2020/11/21, 02:48:11",
+      "duration": 152.44033333333334,
+      "participant_count": 9,
+      "participants": [
+        {
+          "pid": 134568187,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 134568191,
+          "trainer": "camber"
+        },
+        {
+          "pid": 134568196,
+          "trainer": "link"
+        },
+        {
+          "pid": 134568200,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 134568206,
+          "trainer": "volv"
+        },
+        {
+          "pid": 134568203,
+          "trainer": "pascaldi"
+        },
+        {
+          "pid": 134568189,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 134568213,
+          "trainer": "noface"
+        },
+        {
+          "pid": 134568194,
+          "trainer": "greg"
+        }
+      ]
+    },
+    {
+      "tid": 9140621,
+      "name": "NZ PMI 8",
+      "url": "bq5lv1ep",
+      "tformat": "single elimination",
+      "start_at": "2020/11/21, 04:17:04",
+      "completed_at": "2020/11/21, 05:28:27",
+      "duration": 71.37259999999999,
+      "participant_count": 8,
+      "participants": [
+        {
+          "pid": 134583559,
+          "trainer": "link"
+        },
+        {
+          "pid": 134583589,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 134583462,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 134583475,
+          "trainer": "greg"
+        },
+        {
+          "pid": 134583542,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 134583593,
+          "trainer": "volv"
+        },
+        {
+          "pid": 134583594,
+          "trainer": "noface"
+        },
+        {
+          "pid": 134583473,
+          "trainer": "chromi"
+        }
+      ]
+    },
+    {
+      "tid": 9140894,
+      "name": "NZPMI 9",
+      "url": "8sqt7xld",
+      "tformat": "double elimination",
+      "start_at": "2020/11/21, 05:31:24",
+      "completed_at": "2020/11/21, 08:06:15",
+      "duration": 154.8498,
+      "participant_count": 8,
+      "participants": [
+        {
+          "pid": 134587854,
+          "trainer": "greg"
+        },
+        {
+          "pid": 134587860,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 134587858,
+          "trainer": "link"
+        },
+        {
+          "pid": 134587857,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 134587852,
+          "trainer": "chromi"
+        },
+        {
+          "pid": 134587865,
+          "trainer": "noface"
+        },
+        {
+          "pid": 134587851,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 134587863,
+          "trainer": "lake"
+        }
+      ]
+    },
+    {
+      "tid": 9141250,
+      "name": "NZ PMI X",
+      "url": "2ez3ide5",
+      "tformat": "double elimination",
+      "start_at": "2020/11/21, 08:19:48",
+      "completed_at": "2020/11/21, 11:05:30",
+      "duration": 165.6957833333333,
+      "participant_count": 8,
+      "participants": [
+        {
+          "pid": 134594985,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 134594988,
+          "trainer": "greg"
+        },
+        {
+          "pid": 134594995,
+          "trainer": "phlo"
+        },
+        {
+          "pid": 134594992,
+          "trainer": "link"
+        },
+        {
+          "pid": 134594989,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 134595070,
+          "trainer": "camber"
+        },
+        {
+          "pid": 134594993,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 134594987,
+          "trainer": "chrom"
+        }
+      ]
+    },
+    {
+      "tid": 9145125,
+      "name": "NZ PMI XI",
+      "url": "iyos1opu",
+      "tformat": "double elimination",
+      "start_at": "2020/11/22, 07:44:51",
+      "completed_at": "2020/11/22, 10:09:58",
+      "duration": 145.1216,
+      "participant_count": 7,
+      "participants": [
+        {
+          "pid": 134669809,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 134669802,
+          "trainer": "greg"
+        },
+        {
+          "pid": 134669808,
+          "trainer": "link"
+        },
+        {
+          "pid": 134669801,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 134669807,
+          "trainer": "camber"
+        },
+        {
+          "pid": 134669805,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 134669804,
+          "trainer": "phlo"
+        }
+      ]
+    },
+    {
+      "tid": 9163087,
+      "name": "Nallezone Pacman Invitational X2",
+      "url": "dfw9guqf",
+      "tformat": "single elimination",
+      "start_at": "2020/11/27, 23:19:32",
+      "completed_at": "2020/11/28, 00:44:34",
+      "duration": 85.03231666666667,
+      "participant_count": 8,
+      "participants": [
+        {
+          "pid": 135012636,
+          "trainer": "greg"
+        },
+        {
+          "pid": 135012641,
+          "trainer": "link"
+        },
+        {
+          "pid": 135012634,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 135012646,
+          "trainer": "mutantthebitch"
+        },
+        {
+          "pid": 135012640,
+          "trainer": "camber"
+        },
+        {
+          "pid": 135012652,
+          "trainer": "noface"
+        },
+        {
+          "pid": 135012651,
+          "trainer": "volv"
+        },
+        {
+          "pid": 135012648,
+          "trainer": "jakewright"
+        }
+      ]
+    },
+    {
+      "tid": 9163362,
+      "name": "NALLEZONEPACMANINVITATIONAL XIII",
+      "url": "2qr8g7mq",
+      "tformat": "double elimination",
+      "start_at": "2020/11/28, 00:49:36",
+      "completed_at": "2020/11/28, 03:05:33",
+      "duration": 135.94241666666667,
+      "participant_count": 8,
+      "participants": [
+        {
+          "pid": 135016964,
+          "trainer": "camber"
+        },
+        {
+          "pid": 135016979,
+          "trainer": "jake"
+        },
+        {
+          "pid": 135016975,
+          "trainer": "link"
+        },
+        {
+          "pid": 135016973,
+          "trainer": "greg"
+        },
+        {
+          "pid": 135016978,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 135016962,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 135016982,
+          "trainer": "volv"
+        },
+        {
+          "pid": 135016974,
+          "trainer": "jfm"
+        }
+      ]
+    },
+    {
+      "tid": 9174452,
+      "name": "NZPI X4",
+      "url": "npxk7jyp",
+      "tformat": "double elimination",
+      "start_at": "2020/12/01, 01:25:31",
+      "completed_at": "2020/12/01, 04:35:45",
+      "duration": 190.23616666666666,
+      "participant_count": 8,
+      "participants": [
+        {
+          "pid": 135221225,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 135221226,
+          "trainer": "link"
+        },
+        {
+          "pid": 135221222,
+          "trainer": "greg"
+        },
+        {
+          "pid": 135221232,
+          "trainer": "jakewright"
+        },
+        {
+          "pid": 135221221,
+          "trainer": "camber"
+        },
+        {
+          "pid": 135221219,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 135221234,
+          "trainer": "noface"
+        },
+        {
+          "pid": 135221233,
+          "trainer": "volv"
+        }
+      ]
+    },
+    {
+      "tid": 9281705,
+      "name": "NZPMI XV",
+      "url": "cz566ku9",
+      "tformat": "double elimination",
+      "start_at": "2021/01/02, 00:07:34",
+      "completed_at": "2021/01/02, 02:02:09",
+      "duration": 114.58265,
+      "participant_count": 7,
+      "participants": [
+        {
+          "pid": 137241368,
+          "trainer": "greg"
+        },
+        {
+          "pid": 137240735,
+          "trainer": "volvagia"
+        },
+        {
+          "pid": 137240728,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 137240732,
+          "trainer": "noface"
+        },
+        {
+          "pid": 137240730,
+          "trainer": "link"
+        },
+        {
+          "pid": 137240736,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 137240734,
+          "trainer": "hyphlopod"
+        }
+      ]
+    },
+    {
+      "tid": 9282093,
+      "name": "NZPMI XVI",
+      "url": "e4cna1ub",
+      "tformat": "single elimination",
+      "start_at": "2021/01/02, 02:51:16",
+      "completed_at": "2021/01/02, 03:21:25",
+      "duration": 30.1436,
+      "participant_count": 6,
+      "participants": [
+        {
+          "pid": 137247648,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 137247659,
+          "trainer": "greg"
+        },
+        {
+          "pid": 137247649,
+          "trainer": "noface"
+        },
+        {
+          "pid": 137247653,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 137247656,
+          "trainer": "volv"
+        },
+        {
+          "pid": 137247645,
+          "trainer": "link"
+        }
+      ]
+    },
+    {
+      "tid": 9377604,
+      "name": "NZPMI 17",
+      "url": "i7vjo74",
+      "tformat": "single elimination",
+      "start_at": "2021/01/31, 08:14:44",
+      "completed_at": "2021/01/31, 09:02:44",
+      "duration": 47.99563333333333,
+      "participant_count": 6,
+      "participants": [
+        {
+          "pid": 139033339,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 139033334,
+          "trainer": "link"
+        },
+        {
+          "pid": 139033333,
+          "trainer": "camber"
+        },
+        {
+          "pid": 139033337,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 139033336,
+          "trainer": "phlo"
+        },
+        {
+          "pid": 139033335,
+          "trainer": "count"
+        }
+      ]
+    },
+    {
+      "tid": 9400572,
+      "name": "NZPMI 18",
+      "url": "g7we8c76",
+      "tformat": "single elimination",
+      "start_at": "2021/02/07, 00:04:40",
+      "completed_at": "2021/02/07, 01:07:51",
+      "duration": 63.17613333333334,
+      "participant_count": 6,
+      "participants": [
+        {
+          "pid": 139451935,
+          "trainer": "link"
+        },
+        {
+          "pid": 139451930,
+          "trainer": "greg"
+        },
+        {
+          "pid": 139451925,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 139451928,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 139451931,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 139451926,
+          "trainer": "volv"
+        }
+      ]
+    },
+    {
+      "tid": 9716299,
+      "name": "NZPMI XIX",
+      "url": "2hzg8ewf",
+      "tformat": "double elimination",
+      "start_at": "2021/04/24, 00:17:16",
+      "completed_at": "2021/04/24, 02:39:25",
+      "duration": 142.13856666666666,
+      "participant_count": 7,
+      "participants": [
+        {
+          "pid": 145174004,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 145174006,
+          "trainer": "link"
+        },
+        {
+          "pid": 145174007,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 145174008,
+          "trainer": "noface"
+        },
+        {
+          "pid": 145174005,
+          "trainer": "greg"
+        },
+        {
+          "pid": 145174003,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 145174002,
+          "trainer": "volv"
+        }
+      ]
+    },
+    {
+      "tid": 9716927,
+      "name": "NZPMI XX",
+      "url": "e02271up",
+      "tformat": "single elimination",
+      "start_at": "2021/04/24, 02:41:53",
+      "completed_at": "2021/04/24, 03:53:11",
+      "duration": 71.30911666666665,
+      "participant_count": 8,
+      "participants": [
+        {
+          "pid": 145186031,
+          "trainer": "greg"
+        },
+        {
+          "pid": 145186035,
+          "trainer": "link"
+        },
+        {
+          "pid": 145186034,
+          "trainer": "chrome"
+        },
+        {
+          "pid": 145186033,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 145186032,
+          "trainer": "volv"
+        },
+        {
+          "pid": 145186029,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 145186030,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 145186036,
+          "trainer": "noface"
+        }
+      ]
+    },
+    {
+      "tid": 10507365,
+      "name": "NZPMI XXI",
+      "url": "76mmhus3",
+      "tformat": "double elimination",
+      "start_at": "2021/11/20, 22:50:23",
+      "completed_at": "2021/11/21, 00:55:11",
+      "duration": 124.7936,
+      "participant_count": 5,
+      "participants": [
+        {
+          "pid": 159165015,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 159165025,
+          "trainer": "greg"
+        },
+        {
+          "pid": 159165046,
+          "trainer": "volv"
+        },
+        {
+          "pid": 159165021,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 159165023,
+          "trainer": "mutant"
+        }
+      ]
+    },
+    {
+      "tid": 10507828,
+      "name": "NZPMI XXII",
+      "url": "45770wc1",
+      "tformat": "double elimination",
+      "start_at": "2021/11/21, 01:01:01",
+      "completed_at": "2021/11/21, 03:10:22",
+      "duration": 129.3476,
+      "participant_count": 7,
+      "participants": [
+        {
+          "pid": 159172465,
+          "trainer": "greg"
+        },
+        {
+          "pid": 159172479,
+          "trainer": "link"
+        },
+        {
+          "pid": 159172467,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 159172476,
+          "trainer": "jimmy"
+        },
+        {
+          "pid": 159172484,
+          "trainer": "volv"
+        },
+        {
+          "pid": 159172464,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 159172466,
+          "trainer": "nalle"
+        }
+      ]
+    },
+    {
+      "tid": 10532824,
+      "name": "NZPMI XXIII",
+      "url": "qfyzq5li",
+      "tformat": "double elimination",
+      "start_at": "2021/11/28, 00:10:22",
+      "completed_at": "2021/11/28, 01:32:50",
+      "duration": 82.47171666666667,
+      "participant_count": 8,
+      "participants": [
+        {
+          "pid": 159634242,
+          "trainer": "link"
+        },
+        {
+          "pid": 159634241,
+          "trainer": "jfm"
+        },
+        {
+          "pid": 159634245,
+          "trainer": "mutant"
+        },
+        {
+          "pid": 159634247,
+          "trainer": "greg"
+        },
+        {
+          "pid": 159634253,
+          "trainer": "savestate"
+        },
+        {
+          "pid": 159634243,
+          "trainer": "volv"
+        },
+        {
+          "pid": 159634252,
+          "trainer": "noface"
+        },
+        {
+          "pid": 159634239,
+          "trainer": "nalle"
+        }
+      ]
+    },
+    {
+      "tid": 11266937,
+      "name": "NZPMI XXVI",
+      "url": "y56bjgkn",
+      "tformat": "double elimination",
+      "start_at": "2022/06/09, 22:45:52",
+      "completed_at": "2022/06/09, 23:58:17",
+      "duration": 72.4215,
+      "participant_count": 5,
+      "participants": [
+        {
+          "pid": 173323624,
+          "trainer": "link"
+        },
+        {
+          "pid": 173323623,
+          "trainer": "greg"
+        },
+        {
+          "pid": 173323625,
+          "trainer": "volv"
+        },
+        {
+          "pid": 173323630,
+          "trainer": "noface"
+        },
+        {
+          "pid": 173323622,
+          "trainer": "nalle"
+        }
+      ]
+    },
+    {
+      "tid": 11563955,
+      "name": "NZPMI XXV",
+      "url": "s23dvdwi",
+      "tformat": "double elimination",
+      "start_at": "2022/08/07, 21:49:49",
+      "completed_at": "2022/08/08, 00:28:31",
+      "duration": 158.70261666666664,
+      "participant_count": 7,
+      "participants": [
+        {
+          "pid": 177632982,
+          "trainer": "link"
+        },
+        {
+          "pid": 177632975,
+          "trainer": "greg"
+        },
+        {
+          "pid": 177632974,
+          "trainer": "volv"
+        },
+        {
+          "pid": 177632971,
+          "trainer": "nalle"
+        },
+        {
+          "pid": 177632979,
+          "trainer": "jimmy"
+        },
+        {
+          "pid": 177632978,
+          "trainer": "noface"
+        },
+        {
+          "pid": 177632972,
+          "trainer": "jfm"
+        }
+      ]
+    }
+  ]
+}

@@ -69,7 +69,7 @@ class Pacmans:
         return json.loads(self.get_json())
 
 
-pacmans = Pacmans("namehere", "KEYHERE")
+pacmans = Pacmans("nallesounds", "u7516BnKalWyIukGmOcYLDZjzRZ0KIEBhOHfztHl")
 pacmans.get_tournaments()
 
 print(pacmans.get_dict())

@@ -1,10 +1,12 @@
-# idea is to make GUI to prompt data from file, so far it's just messing around
-
+# importing the module
 import json
 
-with open('matches.json') as matches_file:
-    file_contents = matches_file.read()
+# Opening JSON file
+with open('matches.json') as json_file:
+    data = json.load(json_file)
 
-print(file_contents)
+    # Print the type of data variable
+    print("Type:", type(data))
 
-parsed_file = json.loads(file_contents)
+    # Print the data of dictionary
+    print("pacmans", data['pacmans'])
